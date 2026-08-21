@@ -23,6 +23,6 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript.
 
 Open `index.html` in your browser and start adding tasks.
 
-## Author
 
-Anjali Gadwal
+
+
